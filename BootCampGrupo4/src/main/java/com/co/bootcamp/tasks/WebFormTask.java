@@ -13,6 +13,7 @@ public class WebFormTask implements Task {
 
         actor.attemptsTo(Enter.theValue("Andres Navarro").into(WebFormPage.TXT_ENTRADA));
         actor.attemptsTo(Enter.theValue("12345").into(WebFormPage.TXT_CLAVE));
+        actor.attemptsTo(Enter.theValue("Hola mundo").into(WebFormPage.TXT_AREA));
         actor.attemptsTo(Click.on(WebFormPage.BTN_SEND));
 
     }
