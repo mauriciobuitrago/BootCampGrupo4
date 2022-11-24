@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8a2f027-1a75-4e68-9c86-456b1513023e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I0Oz3YxOLZdCowI41N64JB7d6f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/navar/Downloads/RetoBootcamp/BootCampGrupo4/BootCampGrupo4/src/test/resources/features"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\navar\Downloads\RetoBootcamp\BootCampGrupo4\BootCampGrupo4\src\test\resources\features" />
+      <recent name="C:\Users\navar\Downloads\RetoBootcamp\BootCampGrupo4\BootCampGrupo4\src\test\java\com\co\bootcamp\stepsdefinitions" />
+      <recent name="C:\Users\navar\Downloads\RetoBootcamp\BootCampGrupo4\BootCampGrupo4\src\test\java\com\co\bootcamp\runners" />
+      <recent name="C:\Users\navar\Downloads\RetoBootcamp\BootCampGrupo4\BootCampGrupo4\src\main\java\com\co\bootcamp\utils" />
+      <recent name="C:\Users\navar\Downloads\RetoBootcamp\BootCampGrupo4\BootCampGrupo4\src\main\java\com\co\bootcamp\userinterfaces" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8a2f027-1a75-4e68-9c86-456b1513023e" name="Changes" comment="" />
+      <created>1669315295604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669315295604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
